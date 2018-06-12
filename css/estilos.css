@@ -141,7 +141,7 @@ footer .contenedor::after{
 footer div.nosotros{
   float: left;
   width: 30%;
-  color: #ffffff;
+  color: white;
 }
 footer div.menu{
   float: right;
